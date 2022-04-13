@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(170, 170, 170);
+}
+
+p {
+    color:rgb(82, 82, 82);
+}
+
+.foto-principal{
+    width: 200px;
+    border: 2px solid #FFFFFF;
+    border-radius: 50%; /* Ou os 100px pode ser representado por 50%*/
+    margin: 30px;  /* Espaçamento externo*/
+    padding: 10px; /*Espaçamento interno */
+    box-shadow: 0px 0px 10px rgb(46, 45, 45); /* A sombra da caixa recebe 4 parametros 1. distantcia da sombra na horizontal 2. Distancia da sombra na vertical 3. desfoque da sombra 4. a cor da sombra*/
+}   
+
+h1{
+    margin-bottom: 0;
+    letter-spacing: -1px;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(75, 75, 75);
+    font-weight: 100;  /*Esperssura da fonte*/
+    letter-spacing: -1px ;  /*Espaçamento entre as letras*/
+}

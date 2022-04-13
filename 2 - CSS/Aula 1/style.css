@@ -1,0 +1,19 @@
+body {
+     background: red;
+}
+
+/* .Verde {    /* Para selecionar uma classe usar  "." 
+    color: green; 
+} */
+
+h3{     /* Usando a tag do html para colocar efeito em todas */
+    color: green;
+}
+
+.foto-principal{
+    width: 500px;
+}
+
+#nome{ /*  "#" para selecionar o id do elemento html */
+    color: yellow;
+}

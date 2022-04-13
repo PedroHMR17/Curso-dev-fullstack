@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(170, 170, 170);
+}
+
+p {
+    color:rgb(82, 82, 82);
+}
+
+.foto-principal{
+    width: 200px;
+    border: 2px solid #FFFFFF;
+    border-radius: 50%; /* Ou os 100px pode ser representado por 50%*/
+    margin: 30px;  /* Espaçamento externo*/
+    padding: 10px; /*Espaçamento interno */
+    box-shadow: 2px 2px black; /* A sombra da caixa recebe 4 parametros 1. distantcia da sombra na horizontal 2. Distancia da sombra na vertical 3. desfoque da sombra 4. a cor da sombra*/
+}   

@@ -1,0 +1,12 @@
+body {
+   background-image: url(background.jpg);
+   background-repeat: no-repeat;
+  /* background-position: 100% 10%; */
+    background-position: center center ;    /* A posição do background*/
+    background-size: cover; /* O tamanho do background cobre toda a tela */
+    background-attachment: fixed; /*  Background não se move com scroll  */
+}
+
+p {
+    color:rgb(82, 82, 82);
+}
